@@ -74,10 +74,9 @@ li{
     width: 90%;
     height: 130px;
     background: #44B78B;
-    margin-top: 4%;
-    margin-right: 5%;
-    margin-left: 5%;
+    margin: 4% 5%;
     padding-top: 40px;
+    padding-bottom: 20px;
 }
 .cTexto{
     font-family: "Roboto", sans-serif;
@@ -114,6 +113,7 @@ li{
 .btnStart{
     float: left;
     text-decoration: none;
+    align-items: center;
     text-align: center;
     margin-right: 35%;
     margin-left: 38%;
