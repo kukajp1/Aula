@@ -1,3 +1,3 @@
 # Aula
 
-Django clone.
+Django clone...
